@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin">20dp</dimen>
+    <dimen name="logoLayoutHeight">100dp</dimen>
+</resources>

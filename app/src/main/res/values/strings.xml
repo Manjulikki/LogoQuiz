@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LogoQuiz</string>
+    <string name="title_activity_init">InitActivity</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="next">Next</string>
+    <string name="emptyAnswer">Your answer was empty</string>
+    <string name="finalScore">Your final score is :</string>
+    <string name="hintAnswer">Please enter your answer here</string>
+    <string name="result">Result</string>
+    <string name="finish">Finish</string>
+    <string name="timer">Timer</string>
+    <string name="startQuiz">Lets start LOGO Quiz</string>
+</resources>
